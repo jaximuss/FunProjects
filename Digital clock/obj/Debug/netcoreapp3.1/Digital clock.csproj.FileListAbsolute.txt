@@ -14,3 +14,19 @@ C:\Users\obi\Desktop\Fun Projects C#\Digital clock\obj\Debug\netcoreapp3.1\Digit
 C:\Users\obi\Desktop\Fun Projects C#\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.pdb
 C:\Users\obi\Desktop\Fun Projects C#\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.genruntimeconfig.cache
 C:\Users\obi\Desktop\Fun Projects C#\Digital clock\obj\Debug\netcoreapp3.1\Digital_clock.Clock.resources
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\bin\Debug\netcoreapp3.1\Digital clock.exe
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\bin\Debug\netcoreapp3.1\Digital clock.deps.json
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\bin\Debug\netcoreapp3.1\Digital clock.runtimeconfig.json
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\bin\Debug\netcoreapp3.1\Digital clock.runtimeconfig.dev.json
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\bin\Debug\netcoreapp3.1\Digital clock.dll
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\bin\Debug\netcoreapp3.1\Digital clock.pdb
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.csproj.AssemblyReference.cache
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital_clock.Clock.resources
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.csproj.GenerateResource.cache
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.AssemblyInfoInputs.cache
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.AssemblyInfo.cs
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.csproj.CoreCompileInputs.cache
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.dll
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.pdb
+c:\Users\obi\Desktop\Fun Projects C#\FunProjects\Digital clock\obj\Debug\netcoreapp3.1\Digital clock.genruntimeconfig.cache

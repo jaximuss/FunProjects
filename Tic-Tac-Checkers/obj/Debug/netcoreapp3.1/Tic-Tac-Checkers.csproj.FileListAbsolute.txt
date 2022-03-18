@@ -1,0 +1,17 @@
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\bin\Debug\netcoreapp3.1\Tic-Tac-Checkers.exe
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\bin\Debug\netcoreapp3.1\Tic-Tac-Checkers.deps.json
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\bin\Debug\netcoreapp3.1\Tic-Tac-Checkers.runtimeconfig.json
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\bin\Debug\netcoreapp3.1\Tic-Tac-Checkers.runtimeconfig.dev.json
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\bin\Debug\netcoreapp3.1\Tic-Tac-Checkers.dll
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\bin\Debug\netcoreapp3.1\Tic-Tac-Checkers.pdb
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic_Tac_Checkers.Form1.resources
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic_Tac_Checkers.Properties.Resources.resources
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.csproj.GenerateResource.cache
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.AssemblyInfoInputs.cache
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.AssemblyInfo.cs
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.csproj.CoreCompileInputs.cache
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.dll
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.pdb
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.genruntimeconfig.cache
+C:\Users\obi\Desktop\Fun Projects C#\Tic-Tac-Checkers\obj\Debug\netcoreapp3.1\Tic-Tac-Checkers.csproj.AssemblyReference.cache

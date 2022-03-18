@@ -1,0 +1,5 @@
+C:\Users\obi\Desktop\Fun Projects C#\app\tictacheckers\Tic-Tac-Checkers.exe
+C:\Users\obi\Desktop\Fun Projects C#\app\tictacheckers\Tic-Tac-Checkers.dll
+C:\Users\obi\Desktop\Fun Projects C#\app\tictacheckers\Tic-Tac-Checkers.deps.json
+C:\Users\obi\Desktop\Fun Projects C#\app\tictacheckers\Tic-Tac-Checkers.runtimeconfig.json
+C:\Users\obi\Desktop\Fun Projects C#\app\tictacheckers\Tic-Tac-Checkers.pdb

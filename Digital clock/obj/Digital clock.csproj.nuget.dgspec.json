@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\obi\\Desktop\\Fun Projects C#\\Digital clock\\Digital clock.csproj": {}
+    "c:\\Users\\obi\\Desktop\\Fun Projects C#\\FunProjects\\Digital clock\\Digital clock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\obi\\Desktop\\Fun Projects C#\\Digital clock\\Digital clock.csproj": {
+    "c:\\Users\\obi\\Desktop\\Fun Projects C#\\FunProjects\\Digital clock\\Digital clock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\obi\\Desktop\\Fun Projects C#\\Digital clock\\Digital clock.csproj",
+        "projectUniqueName": "c:\\Users\\obi\\Desktop\\Fun Projects C#\\FunProjects\\Digital clock\\Digital clock.csproj",
         "projectName": "Digital clock",
-        "projectPath": "C:\\Users\\obi\\Desktop\\Fun Projects C#\\Digital clock\\Digital clock.csproj",
+        "projectPath": "c:\\Users\\obi\\Desktop\\Fun Projects C#\\FunProjects\\Digital clock\\Digital clock.csproj",
         "packagesPath": "C:\\Users\\obi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\obi\\Desktop\\Fun Projects C#\\Digital clock\\obj\\",
+        "outputPath": "c:\\Users\\obi\\Desktop\\Fun Projects C#\\FunProjects\\Digital clock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
