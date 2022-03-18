@@ -1,0 +1,5 @@
+C:\Users\obi\Desktop\Fun Projects C#\app\Digital clock.exe
+C:\Users\obi\Desktop\Fun Projects C#\app\Digital clock.dll
+C:\Users\obi\Desktop\Fun Projects C#\app\Digital clock.deps.json
+C:\Users\obi\Desktop\Fun Projects C#\app\Digital clock.runtimeconfig.json
+C:\Users\obi\Desktop\Fun Projects C#\app\Digital clock.pdb
